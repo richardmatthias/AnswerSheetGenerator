@@ -5,3 +5,4 @@ This tool is specifically designed for courses like CSE20, CSE21 and CSE105 from
 Known issues:
 1. This does not work if the professor used something like cont. to separate a single question on two pages.
 2. This does not work if the professor used itemize for a non-question reference.
+3. This does not work properly if the professor have multiple-layered sub-questions. I'm working on solving this issue asap.
